@@ -1,0 +1,11 @@
+@media only screen and (min-width:992px) {
+    .navbar navbar-expand-lg navbar-light bg-light,
+    .container {background-color: aquamarine;}
+}
+
+@media only screen and (max-width: 660px) {
+    body{background-color: aqua;}
+}
+.footer {
+    background-color: gray;
+}
